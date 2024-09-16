@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1000: Genel türlerde statik üyeler bildirmeyin
+dotnet_diagnostic.CA1000.severity = error
